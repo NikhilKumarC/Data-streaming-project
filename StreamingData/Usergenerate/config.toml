@@ -1,0 +1,6 @@
+[AWS-secret]
+secretname = "s3access"
+region = "us-east-1"
+
+[AWS-s3]
+targetbucket="streamingproject"
